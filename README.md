@@ -5,7 +5,7 @@ Hello, I am Phatcharaphon Chaisaenthao (Captain). I graduated in October 2024 fr
 
 ---
 
-## ⚔️ Languages and Tools 
+### ⚔️ Languages and Tools 
 
 <img align="left" alt="Angular" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="Angular" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularmaterial/angularmaterial-original.svg" />
@@ -20,10 +20,10 @@ Hello, I am Phatcharaphon Chaisaenthao (Captain). I graduated in October 2024 fr
 <img align="left" alt="Angular" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />       
 <img align="left" alt="Angular" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />       
 <img align="left" alt="Angular" width="40px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />       
+<br/>
 
----
 #
-## 🎖️ Stats
+### 🎖️ Stats
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=phatcharaphon2001&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/phatcharaphon2001/github-readme-stats#gh-dark-mode-only)
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=phatcharaphon2001&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/phatcharaphon2001/github-readme-stats#gh-light-mode-only)
